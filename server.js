@@ -11,3 +11,9 @@ const product = {
     price: 40,
     color: 'white'
 }
+
+
+const ship = {
+    weight: 420,
+    products: 12
+}
