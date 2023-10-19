@@ -17,3 +17,8 @@ const ship = {
     weight: 420,
     products: 12
 }
+
+const land = {
+    country: 'Italy',
+    region: 'Florence'
+}
