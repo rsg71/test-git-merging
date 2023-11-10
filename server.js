@@ -23,4 +23,7 @@ const land = {
     region: 'Florence'
 }
 
-const route = '/api/books'
+const route = '/api/books';
+
+
+const route2 = '/api/products';
