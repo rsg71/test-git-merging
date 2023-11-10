@@ -22,3 +22,7 @@ const land = {
     country: 'Italy',
     region: 'Florence'
 }
+
+
+
+const route = "/api/products"
