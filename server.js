@@ -27,3 +27,7 @@ const route = '/api/books';
 
 
 const route2 = '/api/products';
+
+
+
+const route3 = '/api/thing'
